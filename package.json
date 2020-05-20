@@ -1,5 +1,5 @@
 {
-  "name": "wordcloud",
+  "name": "@danieldx/wordcloud",
   "version": "1.1.0",
   "description": "Tag cloud/Wordle presentation on 2D canvas or HTML",
   "homepage": "http://timdream.org/wordcloud2.js/",

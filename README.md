@@ -37,3 +37,7 @@ Use `grunt compare --base-commit=gh-pages` to compare your proposed fix with `gh
 ## Acknowledgement
 
 The developer would like to thank [Chad Jensen](mailto:scubaaddiction@gmail.com) for sponsoring the work on image masking on the demo page.
+
+## Fixed Bugs
+
+- Error when using import / require
